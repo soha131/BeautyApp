@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345153981257",
+    "project_id": "beauty-app-e09a8",
+    "storage_bucket": "beauty-app-e09a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345153981257:android:18d6b441c25ed8020e6898",
+        "android_client_info": {
+          "package_name": "com.example.beautyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACdv0ODo0BaTKH_oHSOSNnSkRnKJD-0qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
