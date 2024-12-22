@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+# Features
+Cross-platform support: Runs on both Android and iOS.
+Simple and user-friendly interface.
+Learning milestone: Demonstrates key Flutter concepts like widgets, state management, and navigation.
 
-This project is a starting point for a Flutter application.
+# Built With
+Flutter - Cross-platform app development framework.
+Dart - Programming language used with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+# Learning Highlights
+Creating Beauty App helped me:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Understand the fundamentals of Flutter widgets.
+Explore Dart programming basics.
+Design a simple yet visually appealing user interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
