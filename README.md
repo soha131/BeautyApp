@@ -3,21 +3,24 @@
 A new Flutter project.
 
 # Features
-Cross-platform support: Runs on both Android and iOS.
-Simple and user-friendly interface.
-Learning milestone: Demonstrates key Flutter concepts like widgets, state management, and navigation.
+. Cross-platform support: Runs on both Android and iOS.
+. Simple and user-friendly interface.
+. Learning milestone: Demonstrates key Flutter concepts like widgets, state management, and navigation.
 
-# Built With
-Flutter - Cross-platform app development framework.
-Dart - Programming language used with Flutter.
+## Built With
+. Flutter - Cross-platform app development framework.
+. Dart - Programming language used with Flutter.
 
-# Learning Highlights
+## Learning Highlights
 Creating Beauty App helped me:
-  Understand the fundamentals of Flutter widgets.
-  Explore Dart programming basics.
-  Design a simple yet visually appealing user interface.
-
-# Screenshots
+ - Understand the fundamentals of Flutter widgets.
+ -  Explore Dart programming basics.
+ -  Design a simple yet visually appealing user interface.
+  
+## My Team
+- [Maram Mohamed](https://github.com/maram-mohamed)
+  
+## Screenshots
 ![Screenshot of the app](screenshots/Screenshot_20240803_182615.png)
 ![Screenshot of the app](screenshots/Screenshot_20240803_182640.png)
 ![Screenshot of the app](screenshots/Screenshot_20240803_182703.png)
