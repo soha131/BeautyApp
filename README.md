@@ -19,4 +19,10 @@ Explore Dart programming basics.
 Design a simple yet visually appealing user interface.
 
 # Screenshots
-![Screenshot of the app](BeautyApp/screenshots/Screenshot_20240803_182615)
+![Screenshot of the app](screenshots/Screenshot_20240803_182615.png)
+![Screenshot of the app](screenshots/Screenshot_20240803_182640.png)
+![Screenshot of the app](screenshots/Screenshot_20240803_182703.png)
+![Screenshot of the app](screenshots/Screenshot_20240807_014312.png)
+![Screenshot of the app](screenshots/Screenshot_20240807_014334.png)
+
+
